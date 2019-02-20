@@ -27,12 +27,12 @@ source activate quadcopter
 Create an [iPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the environment:
 
 ```
-python -m ipykernel install —user —name quadcopter —display_name
+python -m ipykernel install --user --name quadcopter --display_name
 ```
 
 And open the notebook:
 ```
-jupyter notebook Quadcopter_project.ipynb
+jupyter notebook Quadcopter_Project.ipynb
 ```
 
 This project consists of:
